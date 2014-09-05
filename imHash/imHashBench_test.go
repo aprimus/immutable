@@ -3,7 +3,7 @@ package imHash_test
 import (
 	"bufio"
 	"fmt"
-	"immutable/imHash"
+	"github.com/aprimus/immutable/imHash"
 	"io"
 	"os"
 	"runtime"

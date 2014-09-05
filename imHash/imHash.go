@@ -2,7 +2,7 @@ package imHash
 
 import "fmt"
 
-import "immutable/imList"
+import "github.com/aprimus/immutable/imList"
 
 const _DEBUGPRINTS = false
 const _PACKAGENAME = "imHash"
